@@ -48,6 +48,8 @@ extern "C"
 #define PIN_LED              (0) // P0.0
 #define LED_BUILTIN          PIN_LED
 
+#define BUTTON_BUILTIN       (10) // P0.10
+
 /*
  * Analog pins
  */
